@@ -14,6 +14,20 @@ const Certificates = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
+                <h4>Build Generative AI Apps and Solutions with No-Code Tools</h4>
+                <h5>
+                  <a href="https://drive.google.com/file/d/1A4G8ux1udC-wejq4_dacJzBdBBdggvDI/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
+                    infosys 🔗
+                  </a>
+                </h5>
+              </div>
+              <h3>Aug 2025</h3>
+            </div>
+            <p></p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
                 <h4>Introduction to Machine Learning</h4>
                 <h5><a href="https://media.licdn.com/dms/image/v2/D562DAQFVezVODALkAw/profile-treasury-image-shrink_8192_8192/B56ZflArk8HUAg-/0/1751893851621?e=1775163600&v=beta&t=DNDwPobDrLNmhYopSPAz4OoQyuAYVXZ0asnrs0MeeXY" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
                   NPTEL 🔗
@@ -28,22 +42,8 @@ const Certificates = () => {
               <div className="career-role">
                 <h4>Data Structures and Algorithms</h4>
                 <h5>
-                  <a href="https://media.licdn.com/dms/image/v2/D562DAQG_xPB4B3VajQ/profile-treasury-image-shrink_1280_1280/B56ZflCpX6HUAY-/0/1751894366693?e=1775163600&v=beta&t=HwA4iiL1MUJl32qTbTXnENxxYFwyxFaFSkrdPNuOBkc" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
+                  <a href="https://media.licdn.com/dms/image/v2/D562DAQG_xPB4B3VajQ/profile-treasury-image-shrink_1280_1280/B56ZflCpX6HUAY-/0/1751894366693?e=1775163600&v=beta&t=HwA4iiL1MUJl32?TbTXnENxxYFwyxFaFSkrdPNuOBkc" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
                     iamneo 🔗
-                  </a>
-                </h5>
-              </div>
-              <h3>Dec 2024</h3>
-            </div>
-            <p></p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Build Generative AI Apps and Solutions with No-Code Tools</h4>
-                <h5>
-                  <a href="https://drive.google.com/file/d/1A4G8ux1udC-wejq4_dacJzBdBBdggvDI/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
-                    infosys 🔗
                   </a>
                 </h5>
               </div>

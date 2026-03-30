@@ -13,14 +13,20 @@ const CoCurricular = () => {
           </div>
           
           <div className="career-info-box">
-            <div className="career-info-in" style={{ width: "100%" }}>
+            <div className="career-info-in">
               <div className="career-role">
-                <h4>Community Development Project — Jal Jeevan Mission 🔗</h4>
+                <h4>
+                  <a href="https://docs.google.com/document/d/1MPp19t0wv-XA51t6JVqBHgQdrN5W9KH3/edit" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
+                    Community Development Project — Jal Jeevan Mission 🔗
+                  </a>
+                </h4>
                 <h5>August 2024</h5>
               </div>
             </div>
-            <p style={{ width: "100%", marginTop: "20px" }}>
-              Participated in a rural water supply development initiative involving surveys, awareness campaigns, infrastructure support, local training and sustainability activities to enhance safe water access and community well-being.
+            <p>
+              Community Development Project (CDP) on rural water supply development. Involved in surveys, awareness campaigns, infrastructure support, and sustainability activities to enhance safe water access. 
+              <br />
+              Registration No: 12316175, Lovely Professional University.
             </p>
           </div>
         </div>

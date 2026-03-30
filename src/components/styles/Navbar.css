@@ -3,14 +3,19 @@
   max-width: var(--cMaxWidth);
   width: var(--cWidth);
   justify-content: space-between;
-  padding: 20px 0px;
+  padding: 15px 40px;
   margin-bottom: -100px;
   box-sizing: border-box;
   position: fixed;
   left: 50%;
   transform: translateX(-50%);
-  top: 0;
+  top: 20px;
   z-index: 9999;
+  background: var(--glassBG);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--glassBorder);
+  border-radius: 100px;
 }
 .header ul {
   font-size: 12px;

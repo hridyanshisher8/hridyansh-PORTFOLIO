@@ -18,8 +18,11 @@
   user-select: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  --accentColor: #5eead4;
-  --backgroundColor: #0a0e17;
+  --accentColor: #A78BFA;
+  --secondaryAccentColor: #C084FC;
+  --backgroundColor: #020617;
+  --glassBG: rgba(255, 255, 255, 0.03);
+  --glassBorder: rgba(255, 255, 255, 0.1);
   --vh: 100vh;
   --vh: 100svh;
 }
@@ -66,7 +69,8 @@ main {
 body {
   margin: 0;
   height: auto;
-  background-color: #050810;
+  background: radial-gradient(circle at top, #111827 0%, #020617 100%);
+  background-attachment: fixed;
   flex-grow: 1;
   --cWidth: calc(100% - 30px);
   --cMaxWidth: 1920px;
